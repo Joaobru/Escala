@@ -78,7 +78,7 @@ Além disto é bom ter um editor para trabalhar com o código como o [VSCode](ht
 ```bash
 
 # Clone este repositório
-$ git clone https://github.com/Gabriel52/SchoolChallenge.git
+$ git clone https://github.com/Joaobru/Escala.git
 
 # Acesse a pasta do projeto no seu terminal/cmd
 $ cd SchoolChallenge-master
