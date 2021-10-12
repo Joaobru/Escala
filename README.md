@@ -81,7 +81,7 @@ Além disto é bom ter um editor para trabalhar com o código como o [VSCode](ht
 $ git clone https://github.com/Joaobru/Escala.git
 
 # Acesse a pasta do projeto no seu terminal/cmd
-$ cd SchoolChallenge-master
+$ cd Escala-master
 
 # Acesse a pasta microservices e rode esses comandos
 #Moeda 
